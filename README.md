@@ -138,7 +138,11 @@ cd droneDisplaySystem
 
 cd json_data/
 
+#send one at a time
 python3 send_data.py
+
+#sned multiple simultaneously
+python3 send_data_4AtOnce.py
 ```
 
 6. Check out the pages - refresh if graphs look wonky
