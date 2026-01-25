@@ -1,0 +1,8 @@
+flask
+flask_sqlalchemy
+flask_login
+requests
+python-dotenv
+pandas
+shapely
+openpyxl
